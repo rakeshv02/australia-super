@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://australia-super.tabutility.com/sitemap.xml
